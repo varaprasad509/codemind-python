@@ -1,0 +1,5 @@
+str  = input()
+x = str.split()
+x.sort()
+x.sort(key=len)
+print(*x)
