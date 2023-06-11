@@ -19,4 +19,3 @@ if n-f>g-n:
     print(g-n)
 else:
     print(n-f)
-        
